@@ -1,0 +1,5 @@
+mx-25-aluminum: wire art text, perspective shadow, gradient Crown Molding on background with rgb noise + wind.
+mx-25-rainbow: Polished plastic fun + Yachrome text, gradient Full Saturation Spectrum CCW + cubism.
+mx-25-jeans:Polished plastic fun + Wrought iron logo, Blue jeans scaled on background.
+
+Font QTBodiniPoster Italic size 300
